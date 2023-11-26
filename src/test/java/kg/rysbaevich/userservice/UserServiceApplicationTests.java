@@ -1,10 +1,10 @@
-package kg.rysbaevich.aistcargo;
+package kg.rysbaevich.userservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AistCargoApplicationTests {
+class UserServiceApplicationTests {
 
     @Test
     void contextLoads() {
